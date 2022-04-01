@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brookelove
 - 👀 I’m interested in learning about what code language is the best for me 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through email savienloveb@gmail.com
 
