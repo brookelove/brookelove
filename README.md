@@ -1,5 +1,5 @@
-  * Im so exciteed your've made it here! Come on check out my Repo!
- ** heres a link to my portforlio: https://brookelove.github.io/work-portfolio-two/
+  # Im so exciteed your've made it here! Come on check out my Repo!
+ ## heres a link to my portforlio: https://brookelove.github.io/work-portfolio-two/
 
 - 👋 Hi, I’m @brookelove
 - 👀 I’m interested in learning about which combo of coding language is best for me 
