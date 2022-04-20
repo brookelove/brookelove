@@ -1,4 +1,4 @@
-  # Im so exciteed your've made it here! Come on check out my Repo!
+  # Im So excite You've Made It Here! Come Check out My Page!
  ## heres a link to my portforlio: https://brookelove.github.io/work-portfolio-two/
 
 - 👋 Hi, I’m @brookelove
