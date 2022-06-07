@@ -2,7 +2,8 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=grey&style=plastic" alt="shubh4grd" /> </p>
   
-  [![Linkedin: Brooke](https://img.shields.io/badge/-Brooke-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savien-love-898429230/)](https://www.linkedin.com/in/savien-love-898429230/)
+ [![Linkedin: Brooke](https://img.shields.io/badge/-Brooke-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savien-love-898429230/)](https://www.linkedin.com/in/savien-love-898429230/)
+ [![GitHub brookelove](https://img.shields.io/github/followers/brookelove?label=follow&style=social)](https://github.com/shubh4grd)
   
  ### Check Out My [Portfolio](https://protected-ridge-15783.herokuapp.com/)
  
