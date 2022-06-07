@@ -2,7 +2,7 @@
  ## heres a link to my portforlio: https://brookelove.github.io/work-portfolio-two/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brookelove&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brookelove&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brookelove&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @brookelove
 - 👀 I’m interested in learning about which combo of coding language is best for me 
 - 🌱 I’m currently learning express.js
