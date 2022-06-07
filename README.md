@@ -13,6 +13,8 @@
 - 💞️ I’m looking to collaborate on many differnt projects that allow me to advance my coding
 - 📫 How to reach me [Email -brookelovedevelops](brookelovedevelops@outlook.com)
 
+[![Linkedin: Brooke](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savien-love-898429230/)](https://www.linkedin.com/in/savien-love-898429230/)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
