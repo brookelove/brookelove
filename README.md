@@ -1,4 +1,5 @@
-  # I'm So Excited You've Made It Here! Come Check out My Page!
+  # Hi I'm [Brooke Love](https://github.com/brookelove)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=blue&style=plastic" alt="shubh4grd" /> </p>
  ## Check Out My [Portfolio](https://protected-ridge-15783.herokuapp.com/)
 [![Brooke's GitHub stats](https://github-readme-stats.vercel.app/api?username=brookelove&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brookelove&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
@@ -6,7 +7,15 @@
 - 👀 I’m interested in learning about which combo of coding language is best for me 
 - 🌱 I’m currently learning express.js
 - 💞️ I’m looking to collaborate on many differnt projects that allow me to advance my coding
-- 📫 How to reach me through email brookelovedevelops@outlook.com
+- 📫 How to reach me [Email -brookelovedevelops](brookelovedevelops@outlook.com)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <!---
 brookelove/brookelove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
