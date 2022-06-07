@@ -1,6 +1,9 @@
   # Hi I'm [Brooke Love](https://github.com/brookelove)
+  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=blue&style=plastic" alt="shubh4grd" /> </p>
+  
  ## Check Out My [Portfolio](https://protected-ridge-15783.herokuapp.com/)
+ 
 [![Brooke's GitHub stats](https://github-readme-stats.vercel.app/api?username=brookelove&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brookelove&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @brookelove
