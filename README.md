@@ -1,5 +1,5 @@
   # I'm So Excited You've Made It Here! Come Check out My Page!
- ## heres a link to my portforlio: https://brookelove.github.io/work-portfolio-two/
+ ## Click [here](https://protected-ridge-15783.herokuapp.com/) to see my Portfolio
 [![Brooke's GitHub stats](https://github-readme-stats.vercel.app/api?username=brookelove&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brookelove&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @brookelove
