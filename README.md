@@ -1,6 +1,9 @@
-  # Hi I'm [Brooke Love](https://github.com/brookelove)
+
+  <h1 align="center">Hi, I'm <a href="https://github.com/brookelove">Brooke Love</a> 👋</h1>
+  <h3 align="center">| Developer | Student |</h3>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=grey&style=plastic" alt="shubh4grd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=grey&style=plastic" alt="brookelove" /> </p>
+
 [![Linkedin: Brooke](https://img.shields.io/badge/-Brooke-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savien-love-898429230/)](https://www.linkedin.com/in/savien-love-898429230/)
 [![GitHub brookelove](https://img.shields.io/github/followers/brookelove?label=follow&style=social)](https://github.com/shubh4grd)
 
@@ -16,7 +19,6 @@
 - 🌱 I’m currently learnrning more about React.
 - 💞️ I’m looking to collaborate on many differnt projects that allow me to advance my coding
 - 📫 How to reach me [Email -brookelovedevelops](brookelovedevelops@outlook.com)
-
 
 
 **Languages and Tools Learned:**  
