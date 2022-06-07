@@ -1,4 +1,4 @@
-  # Hi I'm [Brooke Love](https://github.com/brookelove)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+  # Hi I'm [Brooke Love](https://github.com/brookelove)
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=grey&style=plastic" alt="shubh4grd" /> </p>
   
