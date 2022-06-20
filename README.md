@@ -1,5 +1,5 @@
 
-  <h1 align="center">Hi, I'm <a href="https://github.com/brookelove">Brooke Love</a> 👋</h1>
+  <h1 align="center">Hi, I'm <a href="https://protected-ridge-15783.herokuapp.com/">Brooke Love</a> 👋</h1>
   <h3 align="center"> Developer | Student </h3>
 
 [![Linkedin: Brooke](https://img.shields.io/badge/-Brooke-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savien-love-898429230/)](https://www.linkedin.com/in/savien-love-898429230/)
@@ -12,7 +12,7 @@
 [![Brooke's GitHub stats](https://github-readme-stats.vercel.app/api?username=brookelove&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brookelove&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @brookelove
-- 🏋️‍♂️ I' currently working on [Battle Trail](https://github.com/JaHa675/project-3)
+- 🏋️‍♂️ I' currently working on [Evergreen Body Mod Website](https://github.com/brookelove/evergreen-body-mod)
 - 👀 I’m interested in learning about which combo of coding language is best for me 
 - 🌱 I’m currently learnrning more about React.
 - 💞️ I’m looking to collaborate on many differnt projects that allow me to advance my coding
