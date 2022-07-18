@@ -1,5 +1,5 @@
 
-  <h1 align="center">Hi, I'm <a href="https://protected-ridge-15783.herokuapp.com/">Brooke Love</a> 👋</h1>
+  <h1 align="center">Hi, I'm <a href="https://www.brooke-s-love.com/">Brooke Love</a> 👋</h1>
   <h3 align="center"> Developer | Student </h3>
 
 [![Linkedin: Brooke](https://img.shields.io/badge/-Brooke-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brooke-s-love/)](https://www.linkedin.com/in/brooke-s-love/)
