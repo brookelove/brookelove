@@ -46,11 +46,11 @@
 **Tools:** 
 
 <code><img height="25" src="https://img.shields.io/badge/-MONGODB-47A248?logo=mongodb&logoColor=white&style=flat"></code>
-<code><img height="25" src="https://img.shields.io/badge/-NODE.JS-339933?logo=node.js&logoColor=white&style=flat"></code>
-<code><img height="25" src="https://img.shields.io/badge/-JEST-C21325?logo=jest&logoColor=white&style=flat"></code>
 <code><img height="25" src="https://img.shields.io/badge/-APOLLO-311C87?logo=apollo-graphql&logoColor=white&style=flat"></code>
+<code><img height="25" src="https://img.shields.io/badge/-JEST-C21325?logo=jest&logoColor=white&style=flat"></code>
 <code><img height="25" src="https://img.shields.io/badge/-GIT-white?logo=sequelize&logoColor=F05032&style=flat"></code>
 <code><img height="25" src="https://img.shields.io/badge/-INSOMNIA-4000BF?logo=INSOMNIA&logoColor=white&style=flat"></code>
+<code><img height="25" src="https://img.shields.io/badge/-NODE.JS-339933?logo=node.js&logoColor=white&style=flat"></code>
   
 </div>
 
