@@ -19,11 +19,12 @@
 - 📫 How to reach me [Email -brookelovedevelops](brookelovedevelops@outlook.com)
 
 
-**Languages and Tools Learned:**  
+**Languages:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-CSS-blue"></code>
+<code><img height="20" src="https://img.shields.io/badge/-HTML-orange"></code>
+<code><img height="20" src="https://img.shields.io/badge/-JAVASCRIPT-yellow"></code>
+<code><img height="20" src="https://img.shields.io/badge/-JAVASCRIPT-yellow"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
