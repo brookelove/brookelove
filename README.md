@@ -25,7 +25,9 @@
 <code><img height="20" src="https://img.shields.io/badge/-HTML-orange"></code>
 <code><img height="20" src="https://img.shields.io/badge/-JAVASCRIPT-yellow"></code>
 <code><img height="20" src="https://img.shields.io/badge/-JAVASCRIPT-yellow"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+<code><img height="20" src="https://img.shields.io/badge/-Python-yellow"></code> 
+<code><img height="20" src="https://img.shields.io/badge/-SQL-yellow"></code> 
+<code><img height="20" src="https://img.shields.io/badge/-GRAPHQL-yellow"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 ## <div align="center">Show some ❤️ by starring some of the repositories!</div>
